@@ -17,8 +17,6 @@ Quick Start
 
 Setup
 
-bashgit clone https://github.com/yourusername/secure-file-storage.git
-
 cd secure-file-storage
 
 Configure Backend
